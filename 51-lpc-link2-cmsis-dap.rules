@@ -1,0 +1,2 @@
+# LPC-LINK2 CMSIS-DAP interface
+SUBSYSTEMS=="usb", ATTRS{idVendor}=="1fc9", ATTRS{idProduct}=="0090", MODE:="0666"

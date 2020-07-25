@@ -1,0 +1,2 @@
+# LPC11U3x CMSIS-DAP interface
+SUBSYSTEMS=="usb", ATTRS{idVendor}=="1fc9", ATTRS{idProduct}=="0132", MODE:="0666"

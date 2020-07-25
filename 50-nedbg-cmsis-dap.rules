@@ -1,0 +1,2 @@
+# Microchip/Atmel boards with the nEDBG CMSIS-DAP interface
+SUBSYSTEMS=="usb", ATTRS{idVendor}=="03eb", ATTRS{idProduct}=="2175", MODE:="0666"
