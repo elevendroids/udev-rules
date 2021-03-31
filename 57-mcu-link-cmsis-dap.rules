@@ -1,0 +1,2 @@
+# MCU-LINK CMSIS-DAP interface
+SUBSYSTEMS=="usb", ATTRS{idVendor}=="1fc9", ATTRS{idProduct}=="0143", MODE:="0666"
